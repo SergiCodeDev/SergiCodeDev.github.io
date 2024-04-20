@@ -1,0 +1,21 @@
+# fontawesome
+
+css/iconos/fontawesome/css/*
+
+!brands.min.css
+!fontawesome.min.css
+!solid.min.css
+
+fa-regular-400.ttf
+fa-regular-400.woff2
+fa-v4compatibility.ttf
+fa-v4compatibility.woff2
+
+# materialize
+
+materialize.css
+materialize.js
+
+# pruebas
+
+zoomimg.js
