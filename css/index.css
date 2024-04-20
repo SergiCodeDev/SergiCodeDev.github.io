@@ -539,6 +539,7 @@ nav ul a {
     font-size: 1.16rem;
     font-weight: 400;
     margin-top: 20px;
+    color: var(--sdev-color-moscuro);
     /*    
     display: -webkit-box;
     -webkit-line-clamp: 4;
