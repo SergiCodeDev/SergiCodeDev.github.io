@@ -34,7 +34,7 @@ function mostrarProyectos(datos) {
     descripcion.textContent = proyecto.descripcion;
 
     let contBajo = document.createElement("div")
-    contBajo.className = "card-comprar";
+    contBajo.className = "card-tipo-enlace";
     let tipo = document.createElement("h4")
     tipo.textContent = proyecto.tipo;
     let enlace = document.createElement("a")
@@ -65,12 +65,12 @@ function mostrarProyectos(datos) {
 
         <div class="card-custom h-100">
           <div class="card-imagen">
-            <img src="/img/proyectos/05LANDFORES.jpg" alt="">
+            <img src="/img/proyectos/foto.jpg" alt="">
           </div>
           <div class="card-detalles h-100">
             <div class="card-contenido">
               <div>
-                <h3>LANDFORES</h3>
+                <h3>Portafolio</h3>
                 <ul>
                   <li>html</li>
                   <li>css</li>
@@ -78,11 +78,11 @@ function mostrarProyectos(datos) {
                 </ul>
               </div>
              
-              <p>Un set de seis muñecos de liteltoy con la heroína Ahsoka Tano y sus fieles soldados clones. Ideal
-                para los fans de la serie Star Wars: The Clone Wars y sus aventuras galácticas.</p>
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae in sunt natus ipsa! Sequi quod 
+              repellendus dolorem quibusdam asperiores tempore assumenda obcaecati a vitae.</p>
               <div class="card-comprar">
                 <h4>prototipo</h4>
-                <a class="waves-effect waves-light btn btn-moscuro">Codigo</a>
+                <a class="waves-effect waves-light btn btn-moscuro">tipo</a>
               </div>
             </div>
           </div>

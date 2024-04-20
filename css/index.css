@@ -547,7 +547,7 @@ nav ul a {
     */
 }
 
-.card-comprar {
+.card-tipo-enlace {
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -555,7 +555,7 @@ nav ul a {
     margin-top: 0px;
 }
 
-.card-comprar h4 {
+.card-tipo-enlace h4 {
     font-size: 1.8rem;
     color: var(--sdev-color-moscuro);
     opacity: 0.7;
@@ -563,7 +563,7 @@ nav ul a {
     margin-top: 7px;
 }
 
-.card-comprar button {
+.card-tipo-enlace button {
     border: none;
     padding: 10px 25px;
     color: var(--sdev-color-smclaro);
@@ -571,7 +571,7 @@ nav ul a {
     font-weight: 600;
 }
 
-.card-comprar button:hover {
+.card-tipo-enlace button:hover {
     background-color: var(--sdev-color-mclaro);
 }
 
