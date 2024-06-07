@@ -10,7 +10,7 @@
             "PHP",
             "MYSQL"
         ],
-        "descripcion": "Trabajo final del curso de Confección y Publicación de Páginas WEB (LABORA)",
+        "descripcion": "Proyecto de página web con diseño atractivo, contenido dinámico y formulario de contacto protegido por reCAPTCHA.",
         "tipo": "prototipo",
         "enlace": {
             "nombre": "ver código",
@@ -26,7 +26,7 @@
             "Divi",
             "PHP"
         ],
-        "descripcion": "Esta página web es el resultado de las prácticas realizadas en aesec.es durante el curso de Confección y Publicación de Páginas WEB (LABORA)",
+        "descripcion": "Desarrollé esta página web desde cero para aesec.es, basándome en su diseño, con la capacidad de ser mantenida fácilmente por su equipo.",
         "tipo": "online",
         "enlace": {
             "nombre": "ver web",
