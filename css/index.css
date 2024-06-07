@@ -140,6 +140,11 @@ nav ul a {
     font-family: "Bebas Neue", sans-serif;
     margin-left: 10px;
     margin-right: 10px;
+    /*
+    margin-left: 6px;
+    margin-right: 6px;
+    letter-spacing: 0.03em; 
+    */
 }
 
 .centrarcontenido {
