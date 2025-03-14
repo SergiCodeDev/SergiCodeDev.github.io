@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "titulo": "LITELTOY",
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "Bootstrap",
+            "PHP",
+            "MYSQL"
+        ],
+        "descripcion": "Proyecto de página web con diseño atractivo, contenido dinámico y formulario de contacto protegido por reCAPTCHA.",
+        "tipo": "prototipo",
+        "enlace": {
+            "nombre": "ver código",
+            "url": "https://github.com/SergiCodeDev/LitelToy"
+        },
+        "imagen": "liteltoy.webp"
+    },
+    {
+        "id": 2,
+        "titulo": "cppcarrus",
+        "tecnologias": [
+            "WordPress",
+            "Divi",
+            "PHP"
+        ],
+        "descripcion": "Desarrollé esta página web desde cero para aesec.es, basándome en su diseño, con la capacidad de ser mantenida fácilmente por su equipo.",
+        "tipo": "online",
+        "enlace": {
+            "nombre": "ver web",
+            "url": "https://cppcarrus.es/"
+        },
+        "imagen": "cppcarrus.webp"
+    },
+    {
+        "id": 3,
+        "titulo": "HELADOMET",
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "Bootstrap",
+            "jQuery"
+        ],
+        "descripcion": "Landing page diseñada específicamente para una heladería, donde se ha practicado el uso de flexbox y de diversos componentes.",
+        "tipo": "prototipo",
+        "enlace": {
+            "nombre": "ver código",
+            "url": "https://github.com/SergiCodeDev/HELADOMET"
+        },
+        "imagen": "heladomet.webp"
+    },
+    {
+        "id": 4,
+        "titulo": "BLOC DE NOTAS",
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "Tailwind CSS",
+            "Python",
+            "Django"
+        ],
+        "descripcion": "En este ejemplo, se implementó un sistema CRUD utilizando las plantillas y funcionalidades que nos aporta Django.",
+        "tipo": "prototipo",
+        "enlace": {
+            "nombre": "ver código",
+            "url": "https://github.com/SergiCodeDev/BLOC-DE-NOTAS-DJ"
+        },
+        "imagen": "blocdenotasdj.webp"
+    },
+    {
+        "id": 5,
+        "titulo": "LANDFOREST",
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "Bootstrap",
+            "jQuery"
+        ],
+        "descripcion": "Esta Landing page es de uso genérico, donde se ha practicado el uso de flexbox y de diversos componentes.",
+        "tipo": "prototipo",
+        "enlace": {
+            "nombre": "ver código",
+            "url": "https://github.com/SergiCodeDev/LANDFORES"
+        },
+        "imagen": "lanforest.webp"
+    },
+    {
+        "id": 6,
+        "titulo": "plantillalogindos",
+        "tecnologias": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT",
+            "Bootstrap",
+            "jQuery",
+            "PHP",
+            "MYSQL"
+        ],
+        "descripcion": "Esta web restringe el acceso a usuarios no registrados, emplea plantillas de JavaScript y administra formularios.",
+        "tipo": "prototipo",
+        "enlace": {
+            "nombre": "ver código",
+            "url": "https://github.com/SergiCodeDev/php-webs/tree/main/plantillalogindos"
+        },
+        "imagen": "plantillalogindos.webp"
+    }
+]
